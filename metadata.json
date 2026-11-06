@@ -1,0 +1,6 @@
+{
+  "name": "스마트 생산관리 모니터링 대시보드",
+  "description": "5개 라인별 실시간 공정 진행 현황 모니터링 및 가동률·불량률 시각화 대시보드",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
